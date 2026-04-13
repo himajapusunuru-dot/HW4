@@ -2,8 +2,8 @@
 
 **University of Central Missouri**
 **Course:** CS5760 NLP | Spring 2026
-**Name:** [Friend's Name]
-**Student ID:** [Friend's ID]
+**Name:** Himaja Pusunuru
+**Student ID:** 700772028
 
 ---
 
